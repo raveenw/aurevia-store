@@ -5,7 +5,7 @@ export default function HeroSection() {
         Curated Beauty From Canada
       </p>
 
-      <h1 className="text-4xl md:text-6xl font-serif leading-tight max-w-4xl text-[#1F1F1F]">
+      <h1 className="text-5xl md:text-7xl font-serif font-medium leading-[1.1] tracking-[-0.03em] max-w-4xl text-[#1F1F1F]">
         Something beautiful
         <br />
         is arriving.
