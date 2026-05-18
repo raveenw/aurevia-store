@@ -5,11 +5,17 @@ export default function HeroSection() {
         Curated Beauty From Canada
       </p>
 
-      <h1 className="text-5xl md:text-7xl font-serif font-medium leading-[1.1] tracking-[-0.03em] max-w-4xl text-[#1F1F1F]">
-        Something beautiful
-        <br />
-        is arriving.
-      </h1>
+      <h1
+  className="text-6xl md:text-8xl leading-[1.02] tracking-[-0.035em] mb-2 text-[#1F1F1F]"
+  style={{
+    fontFamily: "'Cormorant Garamond', serif",
+    fontWeight: 400,
+  }}
+>
+  Something beautiful
+  <br />
+  is arriving.
+</h1>
 
       <p className="mt-6 max-w-xl text-neutral-600 text-base leading-relaxed">
         Bringing globally loved beauty essentials closer to home.
