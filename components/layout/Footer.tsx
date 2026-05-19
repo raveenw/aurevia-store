@@ -16,7 +16,7 @@ export default function Footer() {
           </a>
 
           <a
-            href="https://www.facebook.com/aurevia"
+            href="https://www.facebook.com/aurevialk"
             target="_blank"
             className="hover:text-black transition-colors"
           >
